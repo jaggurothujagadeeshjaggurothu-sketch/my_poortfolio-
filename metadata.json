@@ -2,5 +2,7 @@
   "name": "JVR Jagadeesh - Portfolio",
   "description": "Personal portfolio of JVR Jagadeesh, First-Year Technology Student & Deep Tech Aspirant exploring Python, GenAI, and practical software solutions.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
